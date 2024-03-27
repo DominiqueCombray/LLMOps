@@ -5,6 +5,7 @@ on: [push]
 jobs:
   builds:
     steps:
+    - runs-on: ubuntu-latest
     - name: Install dependencies
       run: |
         make install
