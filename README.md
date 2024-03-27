@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/DominiqueCombray/LLMOps/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/DominiqueCombray/LLMOps/actions/workflows/testing-ci.yml)
